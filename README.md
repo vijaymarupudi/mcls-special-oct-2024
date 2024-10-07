@@ -9,4 +9,4 @@
 ## What are the files?
 
 * `talk.pdf`: Presentation slides.
-* `examples/e1`, `examples/e2`, till ``examples/e7`: Examples from the presentation
+* `examples/e1`, `examples/e2`, till `examples/e7`: Examples from the presentation
